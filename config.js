@@ -10,7 +10,7 @@ global.owner = [scorpion
   [255747623939, 'scorpion', true],
   ['255747623939', 'scorpion, true], 
   [''] 
-] //Number of owners 
+] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
